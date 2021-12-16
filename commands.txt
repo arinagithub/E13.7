@@ -1,0 +1,12 @@
+npx webpack --watch
+npm run start
+http-server
+
+npm run webpack_dev
+npm run webpack_prod
+npm run json-server
+
+
+npm i --save-dev eslint
+npm i --save-dev eslint-config-airbnb
+npm i --save-dev eslint-config-prettier eslint-plugin-html eslint-plugin-import eslint-plugin-prettier prettier
